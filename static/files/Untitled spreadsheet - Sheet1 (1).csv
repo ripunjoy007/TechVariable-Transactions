@@ -1,0 +1,13 @@
+Transaction Name,Product Name,Quantity,Unit Price,Delivered to city
+ABC1,Item 1,20,10,Guwahati
+ABC2,Item 2,30,5,Guwahati
+ABC3,Item 3,50,6,Bangalore
+ABC4,Item 4,30,5,Bangalore
+ABC5,Item 5,30,68,Guwahati
+ABC6,Item 6,20,214,Delhi
+ABC7,Item 7,30,5,Guwahati
+ABC8,Item 8,4,32,Guwahati
+ABC9,Item 9,30,25,Delhi
+ABC10,Item 10,20,51,Guwahati
+ABC11,Item 11,30,28,Delhi
+ABC12,Item 12,30,18,Guwahati
