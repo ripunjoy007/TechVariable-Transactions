@@ -21,7 +21,7 @@ UPLOAD_FOLDER = 'static/files'
 @app.route("/")
 def hello():
 
-    return("Hello World!")
+    return("Hello TechVariable !")
 
 
 def authorize(f):

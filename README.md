@@ -3,11 +3,13 @@
 This is a Flask server using PostgreSQL as backend and SQLAlchemy as ORM for deploying on local.
 This application can add and retrieve transactions details 
 
+Python Version: 3.7.9
+
 Steps to initiate:
 1. Install PostgreSQL
 2. Install Insomnia/Postman for interaction with the API's
 3. pip install -r .\requirements.txt
-4. Commands to start db server:
+4. Commands to init db tables:
    1. python manage.py db init
    2. python manage.py db migrate
    3. python manage.py db upgrade
@@ -30,6 +32,12 @@ JSON:
 	"password": "password"
 }
 
+RESPONSE: 
+{
+	"statusCode": 200,
+	"message": "Logged in",
+	"token": token
+}
 
 ## Get data
  http://localhost:5000/get-transactions (GET)
