@@ -45,9 +45,9 @@ RESPONSE:
 page = 1
 limit = 10
 
-city = Delhi
-time_range = start_timestamp|end_timestamp
-quantity range = start_limit|end_limit
+city = Delhi	\
+time_range = start_timestamp|end_timestamp	\
+quantity range = start_limit|end_limit	\
 price range = start_range|end_range
 
 ## Update Transaction
